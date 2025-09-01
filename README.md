@@ -1,7 +1,4 @@
-Secret Sharing Solver
-A simple C++ implementation to solve Shamir's Secret Sharing scheme using basic mathematical operations.
-📋 Problem Description
-Given a set of points representing shares in Shamir's Secret Sharing scheme, this program reconstructs the original polynomial and finds the constant term (the secret) using elementary mathematics.
+
 🚀 Features
 
 Converts numbers from different bases (binary, hex, etc.) to decimal
